@@ -1,0 +1,14 @@
+#Python
+_pycache_/
+*._pycache
+# OS
+.DS_Store
+#Virtual Environment
+.venv/
+# IDE / EDOTPR
+.vscode/
+.idea/
+# Django
+* .sqlite3
+#Secrets
+.env
